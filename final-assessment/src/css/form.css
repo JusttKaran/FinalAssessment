@@ -1,0 +1,23 @@
+/*Name: Jaskaran Singh
+Student ID: 146269196*/
+
+/**
+ * Styles for the add-observation.html page 
+ */
+
+.required{
+    color: red;
+}
+#desc{
+    width: 500px;
+}
+#notes{
+    width: 500px;
+    height: 50px;
+}
+#photoname{
+    width: 500px;
+}
+#photoEmail{
+    width: 500px;
+}
